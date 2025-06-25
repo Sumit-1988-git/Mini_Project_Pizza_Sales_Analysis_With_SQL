@@ -42,7 +42,7 @@ The analysis is based on four primary tables:
 
 - SQL (MySQL-compatible syntax)
 - Relational Database Concepts
-- Aggregations, Joins, CTEs
+- Aggregations, Joins, Window functions
 
 ---
 
